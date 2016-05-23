@@ -9,4 +9,4 @@ files:
                 group: root
                 content: |
                 #!/bin/bash
-                mkdir /tstdir3/
+                mkdir /tstdir2/
