@@ -10,5 +10,3 @@ files:
                 content: |
                 #!/bin/bash
                 mkdir /tstdir/
-
-
